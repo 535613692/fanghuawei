@@ -12,7 +12,7 @@ function Login(){
 		return false;
 	}else{
 		if (userNmae==Name&&userKey==Key) {
-			window.location.href = "homePage.html"
+			window.location.href = "index.html"
 		}
 		
 	}
